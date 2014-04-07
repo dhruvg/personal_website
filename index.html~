@@ -22,9 +22,10 @@
 		<div id="box">
 			<img src="images/me.png" />
 			<h1>Dhruv Garg<h1>
-			<h2>building @tenutofm</h2>
-			<h3>runs <a href="http://twitter.com/anrthis" target="_blank">@anrthis</a>, ex-<a href="http://twitter.com/twittereng" target="_blank">@twitter</a></h3>
-			<h3>likes music, basketball, and improv</h3>
+			<h2>building <a href="http://twitter.com/tenutofm">@tenutofm</a></h2>
+			<h3>-</h3>
+			<h3>runs <a href="http://twitter.com/anrthis" target="_blank">@anrthis</a>, previously <a href="http://twitter.com/twittereng" target="_blank">@twitter</a></h3>
+			<h3>likes music, basketball, and learning</h3>
 			<a href="http://twitter.com/drgarg" class="social" target="_blank"><img src="images/twitter.png" style="width: 64px; height: 64px;"/></a>
 		</div>
   </body>
