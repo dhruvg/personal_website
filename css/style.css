@@ -11,6 +11,24 @@ body {
 #box {
   margin: 50px auto;
   padding: 50px 50px 40px;
+  text-align: center;
+}
+
+#me {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+#me img + img {
+  display: none;
+}
+
+#me:hover img {
+  display: none;
+}
+
+#me:hover img + img {
+  display: block;
 }
 
 .amp { font-family: Baskerville; font-style: italic; }
